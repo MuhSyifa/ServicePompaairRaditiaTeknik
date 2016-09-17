@@ -1,0 +1,23 @@
+RewriteEngine on
+
+RewriteRule ^home$ media.php?module=home [L]
+
+RewriteRule ^profil-grandmarto$ media.php?module=profil [L]
+
+RewriteRule ^artikel$ media.php?module=artikel [L]
+
+RewriteRule ^gallery$ media.php?module=galeri [L]
+
+RewriteRule ^kontak$ media.php?module=kontak [L]
+
+RewriteRule ^room-rates$ media.php?module=room [L]
+
+RewriteRule ^fasilitas$ media.php?module=fasilitas [L]
+
+
+RewriteRule ^detail-artikel-(.*)$ media.php?module=detailartikel&id=$1 [L]
+
+
+
+
+

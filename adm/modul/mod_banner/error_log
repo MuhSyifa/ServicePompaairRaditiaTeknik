@@ -1,0 +1,2 @@
+[28-Feb-2014 08:14:02 UTC] PHP Warning:  unlink(../../../joimg/banner/663909no images.jpg): No such file or directory in /home/bijakkar/public_html/adminw3bs1t3/modul/mod_banner/aksi_banner.php on line 51
+[28-Feb-2014 08:14:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bijakkar/public_html/adminw3bs1t3/modul/mod_banner/aksi_banner.php:51) in /home/bijakkar/public_html/adminw3bs1t3/modul/mod_banner/aksi_banner.php on line 56
